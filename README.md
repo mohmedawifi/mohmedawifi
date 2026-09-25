@@ -14,10 +14,6 @@ I build Data Science projects using Python, Machine Learning, SQL, and Data Visu
 - Tableau
 - Data Visualization
 
-## 📂 Featured Projects
+## 📂  Projects
 
 ### HR Employee Attrition Prediction
-Machine Learning project to analyze employee turnover and predict employees at risk of leaving.
-
-**Tools:**
-Python | Pandas | Scikit-Learn | Tableau
